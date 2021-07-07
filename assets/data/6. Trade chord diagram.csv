@@ -1,0 +1,31 @@
+﻿From,To,Count
+Europe,Africa,1380
+Europe,Middle East,374
+Europe,Asia,293
+Europe,America,2132
+Europe,Oceania,128
+Africa,Asia,267
+Africa,Europe,454
+Africa,America,600
+Africa,Middle East,291
+Africa,Oceania,341
+Asia,Europe,251
+Asia,America,900
+Asia,Middle East,285
+Asia,Africa,197
+Asia,Oceania,161
+America,Africa,50
+America,Middle East,403
+America,Asia,665
+America,Oceania,3000
+America,Europe,200
+Middle East,Europe,403
+Middle East,America,322
+Middle East,Asia,426
+Middle East,Africa,200
+Middle East,Oceania,80
+Oceania,Africa,289
+Oceania,Middle East,211
+Oceania,Asia,251
+Oceania,America,247
+Oceania,Europe,210
