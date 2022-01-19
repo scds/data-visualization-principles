@@ -1,7 +1,7 @@
 # Design Principles for Data Visualization
 Materials for the Relevant Research workshop: **Design Principles for Data Visualization**  
 
-This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/data-visualization-principles/) with GitHub Pages   
+This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/data-visualization-principles/) with GitHub Pages.   
 
 
 Contributions by the following individuals: 
